@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **le.rosa@campus.fct.unl.pt**
 
-- 📄 Know about my experiences [I have a Bachelor's degree in Biotechnology and completed my entrepreneurship studies at BioCant.](I have a Bachelor's degree in Biotechnology and completed my entrepreneurship studies at BioCant.)
+- 📄 Know about my experiences (I have a Bachelor's degree in Biotechnology and completed my entrepreneurship studies at BioCant.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
