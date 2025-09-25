@@ -7,7 +7,7 @@
 
 ![Pikachu coding](./pikachu-typing.svg)                                              
 
-<img src="./kitten.jpg" alt="Kitten coding" width="400"/>
+<img src="./kitten.jpg" alt="Kitten coding" width="250"/>
 
 
 
