@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lore-elias" alt="lore-elias" /></a> </p>
 
-![Pikachu coding](./pikachu-typing.svg)
+![Pikachu coding](./pikachu-typing.svg)                                              
+
+<img src="./kitten.jpg" alt="Kitten coding" width="400"/>
+
+
+
 
 
 - 🔭 I’m currently working on **Master's Thesis at INSA (Lisbon)**
