@@ -5,6 +5,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lore-elias" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lore-elias&layout=compact" />
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lore-elias)](https://github.com/lore-elias)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
