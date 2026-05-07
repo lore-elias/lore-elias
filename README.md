@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Leonor Elias</h1>
 <h3 align="center">🔬 Computational Biologist | 🧬 Data Enthusiast | 🌍 From Portugal</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lore-elias&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lore-elias" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lore-elias&layout=compact" />
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lore-eliasE&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lore-eliasE&layout=compact&theme=tokyonight" />
+</p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lore-elias)](https://github.com/lore-elias)
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=lore-elias&theme=tokyonight" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lore-elias&theme=flat&margin-w=10" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=lore-elias&theme=flat&margin-w=10" />
   </a>
 </p>
 
-
 <p align="center">
-  <img src="./kitten.jpg" width="250" alt="kitten coding"/>
+  <img src="./kitten.jpg" width="250"/>
 </p>
 
 ---
