@@ -47,6 +47,9 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+<a href="https://www.nextflow.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Nextflow-000000?style=for-the-badge&logo=data:image/svg+xml;base64," width="100"/>
+</a>
 </p>
 
 
