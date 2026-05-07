@@ -12,8 +12,6 @@
   <img src="./kitten.jpg" width="250" alt="kitten coding"/>
 </p>
 
-
-
 ---
 
 ### :octopus: About Me
@@ -46,13 +44,5 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lore-elias&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lore-elias&layout=compact" height="150"/>
-</p>
-
----
 
