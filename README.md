@@ -25,7 +25,7 @@
 ### :octopus: About Me
 
 - 🔬 Currently working on **Master’s Thesis in Computational Biology and Bioinformatics, at INSA (Lisbon)**
-- 🎓 Background in **Biotechonoly**
+- 🎓 Background in **Biotechnology**
 - 🚀 Interested in **Computational Biology, Bioinformatics, and Data Science**
 - 💡 Entrepreneurial experience at **BioCant**
 - 📫 Reach me at: **le.rosa@campus.fct.unl.pt**
